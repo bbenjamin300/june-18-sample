@@ -1,4 +1,4 @@
 june-18-sample
 ==============
 
-GitHub foundations class 
+# 2014.06.18 Git Foundations Class
